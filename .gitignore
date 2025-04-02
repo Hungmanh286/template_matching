@@ -8,19 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
-<<<<<<< HEAD
-StockEmotions
-Vn_AirLine
-finding/data/1.jpg
-finding/data/cut_2.png
-finding/object_1
-=======
-StocksEmotion/pre_train_embedding.zip
-StocksEmotion/pre_train_embedding/glove.6B.100d.txt
 StocksEmotion
 Vn_AirLine
 finding/data/1.jpg
 finding/data/cut_1.png
 finding/object_1
 finding/object 2
->>>>>>> e72e643 (update)
